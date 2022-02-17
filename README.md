@@ -1,4 +1,4 @@
-#Video Streaming App
+# Video Streaming App
 
 A Laravel 9.0 app with auth scaffolding using breeze vue
 
